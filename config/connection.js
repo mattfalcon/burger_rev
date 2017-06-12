@@ -1,6 +1,6 @@
 // Set up MySQL connection.
 var mysql = require("mysql");
-var connection 
+var connection; 
 // = mysql.createConnection({
 
 //   host: 'us-cdbr-iron-east-03.cleardb.net',
