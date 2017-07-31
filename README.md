@@ -4,7 +4,6 @@
 </p>
 
 <p> <h1> Link to Heroku Deployment</h1>
-<br>
 https://glacial-thicket-84818.herokuapp.com/
 <br>
 </p>
